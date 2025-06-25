@@ -30,7 +30,7 @@ CareMate is a friendly AI-powered health assistant built with [Streamlit](https:
    - Create a `.env` file in the project root (same folder as `app.py`).
    - Add your Gemini API key (get it from [Google AI Studio](https://aistudio.google.com/app/apikey)):
      ```
-     GEMINI_API_KEY=your-gemini-api-key-here
+     GEMINI_API_KEY=AIzaSyCSLIrDkcjgiRa75uQPyNms7WxYwMAjL8s
      ```
 
 ---
