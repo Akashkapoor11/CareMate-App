@@ -1,3 +1,5 @@
+Working link--------->> https://caremate-app.onrender.com
+
 # 🤖 CareMate – AI Health Companion
 
 CareMate is a friendly AI-powered health assistant built with [Streamlit](https://streamlit.io/) and [Gemini Flash 2.0](https://aistudio.google.com/). It helps users check symptoms and supports mental health in a conversational, empathetic Hinglish tone.
